@@ -90,7 +90,7 @@ const handleSubmit = async (e: React.FormEvent) => {
   };
 
   try {
-    const response = await axios.post("http://localhost:5000/predict", payload);
+    const response = await axios.post("https://predict-customer-churn-server.onrender.com", payload);
 
     // 🧠 Dynamically generate risk factors based on form input
     const riskFactors: string[] = [];
