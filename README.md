@@ -39,7 +39,7 @@ This is the frontend interface for the Customer Churn Prediction web application
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/predict-customer-churn.git
-cd predict-customer-churn/client
+cd predict-customer-churn
 
 ```
 
