@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="text-center space-y-4">
           <div className="flex justify-center space-x-6">
             <a
-              href="https://github.com/udhva-patel"
+              href="https://github.com/udhvapatel"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center space-x-2 text-muted-foreground hover:text-primary transition-colors duration-200"
