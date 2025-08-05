@@ -28,9 +28,7 @@ export default function Footer() {
           </div>
           
           <p className="text-muted-foreground flex items-center justify-center space-x-2">
-            <span>Made with</span>
-            <Heart className="w-4 h-4 text-red-500 fill-current" />
-            <span>by Udhva Patel</span>
+            <span>Made by Udhva Patel</span>
           </p>
           
           <p className="text-sm text-muted-foreground/70">
