@@ -38,7 +38,7 @@ This is the frontend interface for the Customer Churn Prediction web application
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/predict-customer-churn.git
+git clone https://github.com/UdhvaPatel/predict-customer-churn.git
 cd predict-customer-churn
 
 ```
